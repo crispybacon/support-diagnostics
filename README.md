@@ -133,7 +133,7 @@ Elasticseach, Kibana, and Logstash each have three distinct execution modes avai
  <tr>
    <td width="30%" align="left" valign="top">api</td>
    <td width="70%" align="left" valign="top">
-   This type collects only the REST API calls for the targeted cluster without retriving system information and logs from the targeted host. This option will run a bit more quickly than the previous two, and the only privileges required are an Elasticsearch login of sufficient authority to execute the calls. The simplest option to run from a workstation.
+   This type collects only the REST API calls for the targeted cluster without retrieving system information and logs from the targeted host. This option will run a bit more quickly than the previous two, and the only privileges required are an Elasticsearch login of sufficient authority to execute the calls. The simplest option to run from a workstation.
    </td>
  </tr>
 
